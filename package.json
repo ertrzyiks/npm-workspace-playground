@@ -1,0 +1,11 @@
+{
+  "name": "npm-workspace-playground",
+  "workspaces": [
+    "apps/*",
+    "libs/*",
+    "tools/*"
+  ],
+  "scripts": {
+    "demo": "echo 1"
+  }
+}
